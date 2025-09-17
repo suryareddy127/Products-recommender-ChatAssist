@@ -1,4 +1,4 @@
-*🛍️ Products Recommender ChatBot*
+🛍️ Products Recommender ChatBot
 A conversational AI chatbot that helps users discover products based on their preferences. Built with Python and Flask, and deployed via Vercel, this project integrates monitoring tools like Prometheus and Grafana for performance insights.
 
 📦 Features
