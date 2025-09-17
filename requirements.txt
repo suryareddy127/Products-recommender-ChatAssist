@@ -9,4 +9,3 @@ python-dotenv
 pandas
 flask
 prometheus_client
-gunicorn

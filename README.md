@@ -48,3 +48,12 @@ An intelligent chatbot that helps users discover products through natural conver
 **RAG Pipeline:** LangChain connects the database with a Groq-powered chatbot that answers questions using relevant reviews.
 
 **Session Memory:** Each user session keeps track of chat history for better context.
+
+
+
+
+## 🚀🌐 deployment link 
+Experience the chatbot in action: **products-recommender-chat-bot**
+👉 [**https://k2vcdsd8-5000.inc1.devtunnels.ms/**](https://k2vcdsd8-5000.inc1.devtunnels.ms/)  
+
+🛍️ Your personal product recommender, powered by reviews and smart conversation!
