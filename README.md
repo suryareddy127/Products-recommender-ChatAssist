@@ -52,8 +52,10 @@ An intelligent chatbot that helps users discover products through natural conver
 
 
 
-## 🚀🌐 deployment link 
+## 🚀🌐 live Demo
+
 Experience the chatbot in action: **products-recommender-chat-bot**
-👉 [**https://k2vcdsd8-5000.inc1.devtunnels.ms/**](https://k2vcdsd8-5000.inc1.devtunnels.ms/)  
+
+👉 https://k2vcdsd8-5000.inc1.devtunnels.ms/  
 
 🛍️ Your personal product recommender, powered by reviews and smart conversation!
