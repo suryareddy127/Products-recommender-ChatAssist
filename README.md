@@ -1,6 +1,6 @@
 # 🛍️ Products Recommender ChatAssist
 
-An intelligent chatbot that helps users discover products through natural conversation. Built with Python and Flask, this project integrates monitoring tools like Prometheus and Grafana, and is designed for scalable deployment on Google Cloud Platform (GCP).
+An intelligent chat Assistant that helps users discover products through natural conversation. Built with Python and Flask, this project integrates monitoring tools like Prometheus and Grafana, and is designed for scalable deployment on Google Cloud Platform (GCP).
 
 
 ## ✨ Features
