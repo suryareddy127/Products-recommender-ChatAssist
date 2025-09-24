@@ -1,4 +1,4 @@
-# 🛍️ Products Recommender ChatBot
+# 🛍️ Products Recommender ChatAssist
 
 An intelligent chatbot that helps users discover products through natural conversation. Built with Python and Flask, this project integrates monitoring tools like Prometheus and Grafana, and is designed for scalable deployment on Google Cloud Platform (GCP).
 
@@ -54,7 +54,7 @@ An intelligent chatbot that helps users discover products through natural conver
 
 ## 🚀🌐 live Demo
 
-Experience the chatbot in action: **products-recommender-chat-bot**
+Experience the chatbot in action: **products-recommender-chatassist**
 
 👉 https://k2vcdsd8-5000.inc1.devtunnels.ms/  
 
