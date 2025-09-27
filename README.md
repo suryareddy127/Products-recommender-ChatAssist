@@ -56,6 +56,6 @@ An intelligent chat Assistant that helps users discover products through natural
 
 Experience the chatbot in action: **products-recommender-chatassist**
 
-👉 https://k2vcdsd8-5000.inc1.devtunnels.ms/  
+👉 [https://k2vcdsd8-5000.inc1.devtunnels.ms/  ](https://k2vcdsd8-5000.inc1.devtunnels.ms/)
 
 🛍️ Your personal product recommender, powered by reviews and smart conversation!
